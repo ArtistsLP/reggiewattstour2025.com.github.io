@@ -1,5 +1,5 @@
 # reggiewattstour2025.com.github.io
-Github page view: https://artistslp.github.io/reggiewattstour2025.com.github.io
+Github page view: https://artistslp.github.io/reggiewattstour2025.com.github.io<br>CloudFlare page view: https://reggiewattstour2025-com-github-io.pages.dev/<br>CloudFlare page setup: https://dash.cloudflare.com/b388e67ada876c66f522eaaf399a417f/pages/view/reggiewattstour2025-com-github-io
 ## block_hero
 title: Reggie Watts Tour 2025<br>text1: Reggie Watts Live<br>text2: Feb 06, 2025 – May 03, 2025
 ## block_text
